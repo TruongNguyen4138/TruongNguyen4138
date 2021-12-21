@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Truong Nguyen
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning & Artificial Intelligence
+- 🌱 I’m currently learning Deepe Learning & Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
